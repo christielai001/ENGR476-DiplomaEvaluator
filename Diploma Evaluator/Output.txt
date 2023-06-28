@@ -1,0 +1,23 @@
+All the students that got diplomas:
+STUDENT NAME 	 SUBJECT A 	 SUBJECT B 
+JOAN             70.5            85 
+TOM              90              54 
+SUSAN            66              90 
+KATHY            99              55 
+
+Subject A in ascending order:
+STUDENT NAME 	 STUDENT NO. 	 SUBJECT A 	 SUBJECT B 
+RAYMOND           7               22.5            75 
+TANIA             2               49              75 
+SUSAN             5               66              90 
+JOAN              1               70.5            85 
+JEFF              4               80              49.5 
+TOM               3               90              54 
+KATHY             6               99              55 
+
+Standard Deviation of each Subject: 
+Subject A Average: 68.1429
+Subject B Average: 69.0714
+
+Subject A Standard Deviation: 25.7556
+Subject B Standard Deviation: 26.1065
